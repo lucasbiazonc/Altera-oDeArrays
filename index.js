@@ -1,3 +1,6 @@
-// run `node index.js` in the terminal
+console.log('Alteração de Arrays')
+console.log()
 
-console.log(`Hello Node.js v${process.versions.node}!`);
+//at1
+console.log('Atividade 1')
+let a = ["Caderno", "Lápis", "Borracha"];
